@@ -15,9 +15,9 @@ In the terminal, use the following commands:
 
 ## Screenshots
 
-![Screenshot](public/assets/images/Screenshot.png)
-![Screenshot2](public/assets/images/Screenshot2.png)
-![Screenshot3](public/assets/images/Screenshot3.png)
+![Screenshot](develop/public/assets/images/Screenshot.png)
+![Screenshot2](develop/public/assets/images/Screenshot2.png)
+![Screenshot3](develop/public/assets/images/Screenshot3.png)
 
 ## Links
 
