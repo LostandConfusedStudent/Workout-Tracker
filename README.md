@@ -15,6 +15,10 @@ In the terminal, use the following commands:
 
 ## Screenshots
 
+![Screenshot](public/assets/images/Screenshot.png)
+![Screenshot2](public/assets/images/Screenshot2.png)
+![Screenshot3](public/assets/images/Screenshot3.png)
+
 ## Links
 
 * https://github.com/LostandConfusedStudent/Workout-Tracker
